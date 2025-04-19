@@ -22,7 +22,7 @@ https://learn.microsoft.com/pt-br/azure/devops/organizations/accounts/create-org
 https://learn.microsoft.com/pt-br/azure/devops/organizations/projects/create-project?view=azure-devops&tabs=browser
 https://learn.microsoft.com/pt-br/azure/devops/organizations/projects/about-projects?view=azure-devops#structure-your-project
 
-![[prints/z1 criar org e projeto no azure devops.png]]
+![Criar organização e projeto no Azure Devops](.prints/z1 criar org e projeto no azure devops.png)
 
 ### 2. Criar Azure Data Factory no portal do Azure
 - Nomeie o recurso (ex: `adf-projeto-demo`)
@@ -38,7 +38,7 @@ https://learn.microsoft.com/pt-br/azure/devops/organizations/projects/about-proj
 
 https://learn.microsoft.com/pt-br/azure/data-factory/source-control
 
-![[prints/z2 configurar um repositorio.png]]
+![Configurar um repositório](.prints/z2 configurar um repositorio.png)
 
 ### 4. Versionamento automático
 - A partir de agora, tudo que você editar no ADF Studio será salvo automaticamente no Git
